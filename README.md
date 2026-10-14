@@ -1,2 +1,2 @@
 local lp = game:GetService("Players").LocalPlayer
-lp:Kick("BANIDO ETERNAMENTE!!!")
+lp:Kick("BANIDO ETERNAMENTE, CASO ACHE QUE FOI UM BANIMENTO INJUSTO, RECORRA AO NOSSO SUPORTE")
